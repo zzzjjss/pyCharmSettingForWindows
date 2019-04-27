@@ -1,0 +1,74 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="NewElementSamePlace" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="ShowRecentTests" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="tasks.close" />
+</keymap>

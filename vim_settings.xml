@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java" timestamp="1556350904623" />
+      <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" timestamp="1556352648717">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556347657902">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="30" />
@@ -16,15 +23,18 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
       </register>
     </registers>
