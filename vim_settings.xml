@@ -6,11 +6,11 @@
       <file name="D:/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java" timestamp="1556359652775">
         <mark key="'" line="221" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" timestamp="1556363170939">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" timestamp="1556366003120">
+        <mark key="'" line="4" column="16" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/Java/jdk1.8.0_25/src.zip!/java/lang/Object.java" timestamp="1556362673894">
         <mark key="'" line="203" column="21" />
@@ -48,14 +48,20 @@
       <jump line="2" column="16" filename="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhLmFkZCgpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>g</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxvdXRcPg==</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhLmFkZCgpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -64,25 +70,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZGRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0KfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxvdXRcPg==</text>
       </register>
     </registers>
     <search>

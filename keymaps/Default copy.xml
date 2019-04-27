@@ -18,6 +18,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
@@ -25,6 +26,8 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="CollapseSelection" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -34,6 +37,8 @@
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
+  <action id="EditorDeleteLine" />
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
@@ -43,6 +48,7 @@
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="ExportToTextFile" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -110,9 +116,15 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
   </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="SendEOF" />
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
@@ -121,5 +133,7 @@
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
   <action id="tasks.close" />
 </keymap>
