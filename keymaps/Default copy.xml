@@ -24,12 +24,14 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CollapseSelection" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorSelectWord">
@@ -90,7 +92,13 @@
   </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="ImplementMethods" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
