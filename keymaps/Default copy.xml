@@ -16,6 +16,8 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
@@ -24,17 +26,18 @@
   </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
+  <action id="ExportToTextFile" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift alt f" />
-  </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt u" />
@@ -49,10 +52,30 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="ImplementMethods" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
