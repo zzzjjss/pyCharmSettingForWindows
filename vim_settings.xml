@@ -3,14 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java" timestamp="1556359652775">
+      <file name="D:/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java" timestamp="1556546284692">
         <mark key="'" line="221" column="17" />
+        <mark key="[" line="456" column="20" />
+        <mark key="]" line="456" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" timestamp="1556379143263">
-        <mark key="'" line="4" column="16" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" timestamp="1556546160605">
+        <mark key="'" line="6" column="16" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/Java/jdk1.8.0_25/src.zip!/java/lang/Object.java" timestamp="1556362673894">
         <mark key="'" line="203" column="21" />
@@ -19,11 +21,11 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556347657902">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556544832427">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -48,11 +50,11 @@
       <jump line="2" column="16" filename="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhLmFkZEFsbCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRcPg==</text>
@@ -61,31 +63,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhLmFkZEFsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhLmFkZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhLmFkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhLmFkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEl0ZXJhdG9yPFN0cmluZz4gaXRlcmF0b3IgPSBhLml0ZXJhdG9yKCk7IGl0ZXJhdG9yLmhhc05leHQoKTsgKSB7CiAgICAgICAgICAgIFN0cmluZyBuZXh0ID0gIGl0ZXJhdG9yLm5leHQoKTsKICAgICAgICAgICAgCiAgICAgICAgfSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBhMSA9IGE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZGRkCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIk1haW57fSI7CiAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBhLmFkZEFsbCgpCg==</text>
       </register>
     </registers>
     <search>
@@ -102,6 +104,9 @@
         <entry encoding="base64">XDxwcmludGxuXD4=</entry>
         <entry encoding="base64">XDxvdXRcPg==</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
