@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/bitbucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1557846795220">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1557845214480">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,6 +32,7 @@
       <file name="E:/bitbucket/membersystem/WarDeploy/pom.xml" timestamp="1557549342847">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1557846505463" />
       <file name="E:/bitbucket/membersystem/PlatformAdmin/pom.xml" timestamp="1557843759825" />
       <file name="D:/Java/jdk1.8.0_25/src.zip!/javax/management/relation/RoleList.java" timestamp="1556363601043">
         <mark key="[" line="59" column="0" />
@@ -66,9 +72,16 @@
         <mark key="^" line="35" column="63" />
         <mark key="." line="35" column="63" />
       </file>
+      <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1557846204222">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+      </file>
       <file name="/fragment.java" timestamp="1557844546217">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/bitbucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/Pkcs7Encoder.java" timestamp="1557846468625" />
     </filemarks>
     <jumps>
       <jump line="0" column="1" filename="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" />
@@ -104,11 +117,11 @@
       <jump line="1" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KCl7CiAgICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAqIEByZXR1cm4K</text>
       </register>
       <register name="-" type="4">
-        <text>baseContext</text>
+        <text>wx8701ef71ea40d86f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRcPg==</text>
@@ -116,32 +129,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KCl7CiAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">CSAqIEByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBhY2Nlc3NfdG9rZW4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">KCl7CiAgICAgICAg</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhLmFkZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEl0ZXJhdG9yPFN0cmluZz4gaXRlcmF0b3IgPSBhLml0ZXJhdG9yKCk7IGl0ZXJhdG9yLmhhc05leHQoKTsgKSB7CiAgICAgICAgICAgIFN0cmluZyBuZXh0ID0gIGl0ZXJhdG9yLm5leHQoKTsKICAgICAgICAgICAgCiAgICAgICAgfSAK</text>
+        <text encoding="base64">ICAgICAgICBhLmFkZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBhMSA9IGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEl0ZXJhdG9yPFN0cmluZz4gaXRlcmF0b3IgPSBhLml0ZXJhdG9yKCk7IGl0ZXJhdG9yLmhhc05leHQoKTsgKSB7CiAgICAgICAgICAgIFN0cmluZyBuZXh0ID0gIGl0ZXJhdG9yLm5leHQoKTsKICAgICAgICAgICAgCiAgICAgICAgfSAK</text>
       </register>
     </registers>
     <search>
