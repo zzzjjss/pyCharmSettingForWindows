@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1557552963490">
+      <file name="/Dummy.txt" timestamp="1557845214480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java" timestamp="1556546284692">
@@ -11,30 +11,21 @@
         <mark key="[" line="456" column="20" />
         <mark key="]" line="456" column="20" />
       </file>
-      <file name="E:/bitbucket/membersystem/Test/pom.xml" timestamp="1557843770085">
-        <mark key="[" line="32" column="41" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="25" />
+      <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreSimulation.java" timestamp="1557845199654">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
-      <file name="E:/bitbucket/membersystem/member/pom.xml" timestamp="1557843684833" />
-      <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" timestamp="1556546160605">
-        <mark key="'" line="6" column="16" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="D:/Java/jdk1.8.0_25/src.zip!/java/lang/Object.java" timestamp="1556362673894">
-        <mark key="'" line="203" column="21" />
+      <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" timestamp="1557845150230">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="32" column="93" />
+        <mark key="]" line="32" column="129" />
+        <mark key="." line="32" column="129" />
+        <mark key="^" line="32" column="129" />
       </file>
       <file name="E:/bitbucket/membersystem/WarDeploy/pom.xml" timestamp="1557549342847">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="E:/bitbucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557551256169">
-        <mark key="[" line="35" column="61" />
-        <mark key="]" line="35" column="63" />
-        <mark key="^" line="35" column="63" />
-        <mark key="." line="35" column="63" />
       </file>
       <file name="E:/bitbucket/membersystem/PlatformAdmin/pom.xml" timestamp="1557843759825" />
       <file name="D:/Java/jdk1.8.0_25/src.zip!/javax/management/relation/RoleList.java" timestamp="1556363601043">
@@ -46,6 +37,37 @@
         <mark key="]" line="13" column="26" />
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
+      </file>
+      <file name="E:/bitbucket/membersystem/Test/pom.xml" timestamp="1557843770085">
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="33" column="25" />
+      </file>
+      <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreTest.java" timestamp="1557844305316">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="E:/bitbucket/membersystem/member/pom.xml" timestamp="1557843684833" />
+      <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" timestamp="1556546160605">
+        <mark key="'" line="6" column="16" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/Java/jdk1.8.0_25/src.zip!/java/lang/Object.java" timestamp="1556362673894">
+        <mark key="'" line="203" column="21" />
+      </file>
+      <file name="E:/bitbucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557551256169">
+        <mark key="[" line="35" column="61" />
+        <mark key="]" line="35" column="63" />
+        <mark key="^" line="35" column="63" />
+        <mark key="." line="35" column="63" />
+      </file>
+      <file name="/fragment.java" timestamp="1557844546217">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -69,13 +91,24 @@
       <jump line="3" column="15" filename="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" />
       <jump line="2" column="16" filename="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" />
       <jump line="0" column="0" filename="E:/bitbucket/membersystem/WarDeploy/pom.xml" />
+      <jump line="87" column="18" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="27" column="13" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="178" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="126" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="124" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="79" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="36" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="30" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="26" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="20" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
+      <jump line="1" column="0" filename="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KCl7CiAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>baseContext</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRcPg==</text>
@@ -83,32 +116,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQhIik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KCl7CiAgICAgICAg</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhLmFkZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEl0ZXJhdG9yPFN0cmluZz4gaXRlcmF0b3IgPSBhLml0ZXJhdG9yKCk7IGl0ZXJhdG9yLmhhc05leHQoKTsgKSB7CiAgICAgICAgICAgIFN0cmluZyBuZXh0ID0gIGl0ZXJhdG9yLm5leHQoKTsKICAgICAgICAgICAgCiAgICAgICAgfSAK</text>
+        <text encoding="base64">ICAgICAgICBhLmFkZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBhMSA9IGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEl0ZXJhdG9yPFN0cmluZz4gaXRlcmF0b3IgPSBhLml0ZXJhdG9yKCk7IGl0ZXJhdG9yLmhhc05leHQoKTsgKSB7CiAgICAgICAgICAgIFN0cmluZyBuZXh0ID0gIGl0ZXJhdG9yLm5leHQoKTsKICAgICAgICAgICAgCiAgICAgICAgfSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBhMSA9IGE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
     </registers>
     <search>
