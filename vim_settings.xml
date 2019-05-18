@@ -8,6 +8,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/ResourceAppointmentInfoResponse.java" timestamp="1558160289534" />
       <file name="/Dummy.txt" timestamp="1557848187035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -34,9 +35,6 @@
       <file name="E:/bitbucket/membersystem/WarDeploy/pom.xml" timestamp="1557549342847">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1557846505463" />
-      <file name="E:/bitbucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557847707243" />
-      <file name="E:/bitbucket/membersystem/PlatformAdmin/pom.xml" timestamp="1557843759825" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556544832427">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -60,7 +58,6 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="E:/bitbucket/membersystem/member/pom.xml" timestamp="1557843684833" />
       <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" timestamp="1556546160605">
         <mark key="'" line="6" column="16" />
         <mark key="[" line="10" column="0" />
@@ -76,7 +73,6 @@
         <mark key="^" line="35" column="63" />
         <mark key="." line="35" column="63" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" timestamp="1557847818530" />
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1557846204222">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="9" column="45" />
@@ -86,7 +82,6 @@
       <file name="/fragment.java" timestamp="1557844546217">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/Pkcs7Encoder.java" timestamp="1557846468625" />
     </filemarks>
     <jumps>
       <jump line="0" column="1" filename="$USER_HOME$/IdeaProjects/LearnProject/src/Main.java" />
