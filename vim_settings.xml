@@ -8,7 +8,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558540397647">
+      <file name="/Dummy.txt" timestamp="1558542244992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -31,9 +31,15 @@
         <mark key="." line="32" column="129" />
         <mark key="^" line="32" column="129" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1558539892727">
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1558542133034">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="80" />
+      </file>
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/WechatLoginResponse.java" timestamp="1558542207090">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556544832427">
         <mark key="[" line="13" column="26" />
@@ -57,6 +63,12 @@
         <mark key="]" line="33" column="25" />
         <mark key="." line="33" column="25" />
         <mark key="^" line="33" column="25" />
+      </file>
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1558542802674">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="61" />
+        <mark key="." line="80" column="61" />
+        <mark key="^" line="80" column="61" />
       </file>
       <file name="E:/bitbucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557551256169">
         <mark key="[" line="35" column="61" />
@@ -126,10 +138,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add test project</text>
+        <text>CustomerAppointmentController</text>
       </register>
       <register name="-" type="4">
-        <text>add test project</text>
+        <text>CustomerAppointmentController</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbmVQYWdlQXBwb2ludFw+</text>
@@ -138,31 +150,31 @@
         <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKEN1c3RvbWVyQXBwb2ludG1lbnRDb250cm9sbGVyLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWdldFN0b3JhZ2VTeW5jCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxSZXNvdXJjZU9uZURheUFwcG9pbnRJbmZvPiByZXNvdXJjZURheXNBcHBvaW50bWVudHM9bmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZUFwcG9pbnRzLgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNvdXJjZUFwcG9pbnRtZW50SW5mb1Jlc3BvbnNlIHJlc3BvbnNlPW5ldwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNvdXJjZUFwcG9pbnRtZW50SW5mb1Jlc3BvbnNlIHJlc3BvbnNlPW5ldyBMCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWdldFN0b3JhZ2VTeW5jCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxSZXNvdXJjZU9uZURheUFwcG9pbnRJbmZvPiByZXNvdXJjZURheXNBcHBvaW50bWVudHM9bmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZUFwcG9pbnRzLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmbwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBSZXNvdXJjZUFwcG9pbnRtZW50SW5mb1Jlc3BvbnNlIHJlc3BvbnNlPW5ldwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBSZXNvdXJjZUFwcG9pbnRtZW50SW5mb1Jlc3BvbnNlIHJlc3BvbnNlPW5ldyBMCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
