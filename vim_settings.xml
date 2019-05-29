@@ -8,7 +8,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558856656127">
+      <file name="/Dummy.txt" timestamp="1559136541755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -156,10 +156,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>add test project</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>add test project</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2NhbERhdGVcPg==</text>
