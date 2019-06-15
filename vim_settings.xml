@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/bitbucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1557846795220">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="E:/bitbucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1560612506262">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="63" />
+        <mark key="^" line="38" column="63" />
+        <mark key="." line="38" column="63" />
       </file>
       <file name="/Dummy.txt" timestamp="1559138277070">
         <mark key="[" line="0" column="0" />
@@ -19,6 +20,7 @@
         <mark key="." line="29" column="102" />
         <mark key="^" line="29" column="102" />
       </file>
+      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1560612438560" />
       <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreSimulation.java" timestamp="1557845199654">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="28" />
