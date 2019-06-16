@@ -20,17 +20,17 @@
         <mark key="." line="29" column="102" />
         <mark key="^" line="29" column="102" />
       </file>
-      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1560612438560" />
       <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreSimulation.java" timestamp="1557845199654">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1558540325574">
-        <mark key="[" line="80" column="9" />
-        <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="43" />
+      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1560651042118">
+        <mark key="[" line="60" column="94" />
+        <mark key="]" line="60" column="142" />
+        <mark key="." line="60" column="142" />
+        <mark key="^" line="60" column="142" />
       </file>
       <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" timestamp="1557845150230">
         <mark key="'" line="1" column="0" />
@@ -158,10 +158,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>printForbidden</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>printForbidden</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2NhbERhdGVcPg==</text>
@@ -170,31 +170,31 @@
         <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKEN1c3RvbWVyQXBwb2ludG1lbnRDb250cm9sbGVyLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygidXJsOiIrdXJpKyIgLHJlc3VsdDoiK3VyaS5zdGFydHNXaXRoKClwcmludEZvcmJpZGRlbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbFJlc3VsdC5mb3JFYWNoKG8tPnsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbFJlc3VsdC5mb3JFYWNoKG8tPnsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWxvZ2dlci5lcnJvcigic2F2ZSBXZWNoYXRVc2VyIGV4Y2VwdGlvbiIsZSk7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfWNhdGNoIChFeGNlcHRpb24gZSl7Cg==</text>
+        <text encoding="base64">CQkJCWxvZ2dlci5lcnJvcigic2F2ZSBXZWNoYXRVc2VyIGV4Y2VwdGlvbiIsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdHJ5IHsK</text>
+        <text encoding="base64">CQkJfWNhdGNoIChFeGNlcHRpb24gZSl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJdHJ5IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQlUaHJlYWQuc2xlZXAoMjAwMCk7CgkJfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewoJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCX0K</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
     </registers>
     <search>
