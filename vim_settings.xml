@@ -20,17 +20,22 @@
         <mark key="." line="29" column="102" />
         <mark key="^" line="29" column="102" />
       </file>
+      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/Test.java" timestamp="1560652161910">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="5" column="65" />
+        <mark key="^" line="5" column="65" />
+        <mark key="." line="5" column="65" />
+      </file>
       <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreSimulation.java" timestamp="1557845199654">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1560651042118">
-        <mark key="[" line="60" column="94" />
-        <mark key="]" line="60" column="142" />
-        <mark key="." line="60" column="142" />
-        <mark key="^" line="60" column="142" />
+      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1560652521878">
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" timestamp="1557845150230">
         <mark key="'" line="1" column="0" />
@@ -64,6 +69,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="E:/bitbucket/membersystem/WarDeploy/target/classes/com/uf/member/filter/AuthenFilter.class" timestamp="1560652151352">
+        <mark key="[" line="62" column="33" />
+        <mark key="]" line="62" column="32" />
+        <mark key="^" line="62" column="32" />
+        <mark key="." line="62" column="32" />
       </file>
       <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreTest.java" timestamp="1557844305316">
         <mark key="[" line="2" column="21" />
@@ -102,6 +113,7 @@
         <mark key="^" line="164" column="75" />
         <mark key="." line="156" column="49" />
       </file>
+      <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1560652047109" />
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1557846204222">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="9" column="45" />
@@ -157,44 +169,44 @@
       <jump line="424" column="30" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>printForbidden</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>printForbidden</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2NhbERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKEN1c3RvbWVyQXBwb2ludG1lbnRDb250cm9sbGVyLmNsYXNzKTsK</text>
+        <text encoding="base64">Ly8JCQlwcmludEZvcmJpZGRlbihyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygidXJsOiIrdXJpKyIgLHJlc3VsdDoiK3VyaS5zdGFydHNXaXRoKClwcmludEZvcmJpZGRlbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">CQlmaWx0ZXJDaGFpbi5kb0ZpbHRlcihyZXF1ZXN0LCByZXNwb25zZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbFJlc3VsdC5mb3JFYWNoKG8tPnsK</text>
+        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygidXJsOiIrdXJpKyIgLHJlc3VsdDoiK3VyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FwaS9zdG9yZW1hbmFnZXIiKSsiIHJvbGUgUmVzdWx0OiIrKHRva2VuUm9sZSE9Um9sZS5TVE9SRV9NQU5BR0VSKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWxvZ2dlci5lcnJvcigic2F2ZSBXZWNoYXRVc2VyIGV4Y2VwdGlvbiIsZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfWNhdGNoIChFeGNlcHRpb24gZSl7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdHJ5IHsK</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygiY29udGV4dFBhdGg6Iitjb250ZXh0UGF0aCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygidXJsOiIrdXJpKyIgLHJlc3VsdDoiK3VyaS5zdGFydHNXaXRoKClwcmludEZvcmJpZGRlbik7Cg==</text>
       </register>
     </registers>
     <search>
