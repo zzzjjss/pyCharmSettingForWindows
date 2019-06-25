@@ -45,12 +45,18 @@
       <file name="E:/bitbucket/membersystem/MemberSystem_WechatApp/pages/storeManager/index.js" timestamp="1560655161160">
         <mark key="[" line="251" column="0" />
       </file>
+      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application-prod.properties" timestamp="1561475157909">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem_WechatApp/pages/storeManager/appointment/appointmentInfo.js" timestamp="1560655130978">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561473906206">
+      <file name="/Dummy.txt" timestamp="1561475203062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -66,6 +72,18 @@
         <mark key="]" line="5" column="65" />
         <mark key="^" line="5" column="65" />
         <mark key="." line="5" column="65" />
+      </file>
+      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1561475147970">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
+      <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-prod.properties" timestamp="1561475177423">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561473768159">
         <mark key="[" line="151" column="0" />
@@ -193,11 +211,11 @@
       <jump line="42" column="36" filename="D:/mavenRepo/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/entity/ContentType.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tczyzs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tczyzs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUFBMSUNBVElPTl9KU09OXD4=</text>
