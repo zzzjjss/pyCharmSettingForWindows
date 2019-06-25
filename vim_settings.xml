@@ -63,7 +63,6 @@
         <mark key="^" line="5" column="65" />
         <mark key="." line="5" column="65" />
       </file>
-      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1561169166697" />
       <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1560652521878">
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -96,12 +95,6 @@
         <mark key="]" line="15" column="17" />
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
-      </file>
-      <file name="E:/bitbucket/membersystem/WechatAppApi/src/test/java/Test.java" timestamp="1561169387898">
-        <mark key="[" line="19" column="62" />
-        <mark key="]" line="19" column="62" />
-        <mark key="." line="19" column="62" />
-        <mark key="^" line="19" column="60" />
       </file>
       <file name="E:/bitbucket/membersystem/WarDeploy/target/classes/com/uf/member/filter/AuthenFilter.class" timestamp="1560652151352">
         <mark key="[" line="62" column="33" />
