@@ -128,10 +128,10 @@
         <mark key="^" line="164" column="75" />
         <mark key="." line="156" column="49" />
       </file>
-      <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1557846204222">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="9" column="45" />
+      <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1561469850138">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
         <mark key="^" line="9" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1557844546217">
@@ -184,10 +184,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>tczyzs</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>tczyzs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2NhbERhdGVcPg==</text>
