@@ -136,12 +136,12 @@
         <mark key="^" line="35" column="63" />
         <mark key="." line="35" column="63" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1561862558667">
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1562682240846">
         <mark key="'" line="569" column="28" />
-        <mark key="[" line="494" column="34" />
-        <mark key="]" line="494" column="34" />
-        <mark key="^" line="579" column="29" />
-        <mark key="." line="494" column="34" />
+        <mark key="[" line="750" column="42" />
+        <mark key="]" line="750" column="71" />
+        <mark key="^" line="750" column="71" />
+        <mark key="." line="750" column="71" />
       </file>
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561473571500">
         <mark key="[" line="142" column="79" />
@@ -210,10 +210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>generateTimePoints</text>
+        <text>a.getResource().getOneAppointmentCustomerCount()</text>
       </register>
       <register name="-" type="4">
-        <text>generateTimePoints</text>
+        <text>a.getResource().getOneAppointmentCustomerCount()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZVRpbWVQb2ludHNcPg==</text>
