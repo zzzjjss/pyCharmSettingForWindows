@@ -18,11 +18,17 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="E:/bitbucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/SpringBeans.java" timestamp="1563031107039" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556544832427">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
+      </file>
+      <file name="E:/bitbucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/service/AccountService.java" timestamp="1563031229603">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem_WechatApp/pages/storeManager/setting/setting.js" timestamp="1557848047822">
         <mark key="[" line="13" column="0" />
@@ -58,14 +64,19 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563030170188">
+      <file name="E:/bitbucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/util/HttpUtil.java" timestamp="1563031287156">
+        <mark key="[" line="33" column="59" />
+        <mark key="]" line="33" column="59" />
+        <mark key="." line="33" column="59" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563031405459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/EhcacheService.java" timestamp="1563030120194">
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="64" />
-        <mark key="." line="32" column="64" />
-        <mark key="^" line="32" column="64" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/EhcacheService.java" timestamp="1563030684924">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+        <mark key="^" line="24" column="23" />
       </file>
       <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/Test.java" timestamp="1560652161910">
         <mark key="[" line="3" column="44" />
@@ -110,6 +121,7 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
+      <file name="E:/bitbucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/SpringBeans.java" timestamp="1563031093487" />
       <file name="D:/mavenRepo/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/entity/ContentType.class" timestamp="1561473788184">
         <mark key="'" line="42" column="36" />
       </file>
@@ -209,52 +221,53 @@
       <jump line="583" column="25" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="569" column="28" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="308" column="37" filename="D:/Java/jdk1.8.0_25/src.zip!/java/util/AbstractMap.java" />
+      <jump line="23" column="16" filename="E:/bitbucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/service/AccountService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>HttpUtil.class</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1pc3NlZA==</text>
+        <text>HttpUtil.class</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZXNcPg==</text>
+        <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8JCQlwcmludEZvcmJpZGRlbihyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlcjsK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihIdHRwVXRpbC5jbGFzcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nIGxvZ2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGxvZ2dlciAK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRvID0gU3RyaW5nLnZhbHVlT2YobWluVGltZXBvaW50ICsgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIGxvZ2dlciAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSA9IGZyb20ubGVuZ3RoKCkgPT0gMSA/ICIwIiArIGZyb20gOiBmcm9tOwogICAgICAgICAgICB0byA9IHRvLmxlbmd0aCgpID09IDEgPyAiMCIgKyB0byA6IHRvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG8gPSB0by5sZW5ndGgoKSA9PSAxID8gIjAiICsgdG8gOiB0bzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSA9IGZyb20ubGVuZ3RoKCkgPT0gMSA/ICIwIiArIGZyb20gOiBmcm9tOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRvID0gU3RyaW5nLnZhbHVlT2YobWluVGltZXBvaW50ICsgMSk7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWx1ZXNcPg==</last-search>
+      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxMb2NhbERhdGVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -276,6 +289,7 @@
         <entry encoding="base64">XDxBUFBMSUNBVElPTl9KU09OXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVRpbWVQb2ludHNcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
