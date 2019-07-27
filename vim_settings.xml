@@ -158,11 +158,11 @@
         <mark key="." line="80" column="61" />
         <mark key="^" line="80" column="61" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564201094516">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564201853787">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557551256169">
         <mark key="[" line="35" column="61" />
@@ -250,8 +250,8 @@
       <jump line="34" column="8" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>WeekedAppointService weekedAppointService;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="-" type="4">
         <text>WeekedAppointService weekedAppointService;</text>
@@ -260,7 +260,7 @@
         <text encoding="base64">XDxXZWVrc0FwcG9pbnRJbmZvUmVzcG9uc2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlJbnRlZ2VyIGZ1dHVyZUFwcG9pbnRlZCA9IGFwcG9pbnRUb0N1c3RvbWVyUmVwby5jb3VudEFwcG9pbnRlZEFmdGVyVG9kYXkoaWQsIHRvZGF5KTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgV2Vla2VkQXBwb2ludFNlcnZpY2Ugd2Vla2VkQXBwb2ludFNlcnZpY2U7Cg==</text>
