@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="$SelectAll" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -60,6 +61,14 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -180,12 +189,17 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="RecentFiles" />
+  <action id="RefactoringMenu">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="ResizeToolWindowDown" />
   <action id="RunClass">
@@ -219,9 +233,7 @@
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="TodoViewGroupByShowModules" />
   <action id="TodoViewGroupByShowPackages" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
+  <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
