@@ -20,6 +20,9 @@
   </action>
   <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.Refresh">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
@@ -30,6 +33,9 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="CollapseSelection" />
+  <action id="CommittedChanges.Refresh">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowDiff" />
@@ -94,6 +100,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Github.PullRequest.List.Refresh">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
@@ -127,6 +136,9 @@
   <action id="HippieCompletion" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="ImplementMethods" />
+  <action id="IncomingChanges.Refresh">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -170,6 +182,9 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ReplaceInPath" />
   <action id="ResizeToolWindowDown" />

@@ -18,7 +18,6 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="E:/bitbucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/SpringBeans.java" timestamp="1563031107039" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556544832427">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -72,13 +71,6 @@
       <file name="/Dummy.txt" timestamp="1563032896548">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/EhcacheService.java" timestamp="1563032871603">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="24" column="23" />
-      </file>
       <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/Test.java" timestamp="1560652161910">
         <mark key="[" line="3" column="44" />
         <mark key="]" line="5" column="65" />
@@ -122,7 +114,6 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
-      <file name="E:/bitbucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/SpringBeans.java" timestamp="1563031093487" />
       <file name="D:/mavenRepo/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/entity/ContentType.class" timestamp="1561473788184">
         <mark key="'" line="42" column="36" />
       </file>
@@ -158,10 +149,10 @@
         <mark key="." line="788" column="33" />
       </file>
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561473571500">
-        <mark key="[" line="178" column="79" />
-        <mark key="]" line="178" column="76" />
-        <mark key="." line="178" column="76" />
-        <mark key="^" line="178" column="76" />
+        <mark key="[" line="218" column="79" />
+        <mark key="]" line="218" column="76" />
+        <mark key="." line="218" column="76" />
+        <mark key="^" line="218" column="76" />
       </file>
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1561469850138">
         <mark key="[" line="1" column="16" />
