@@ -87,12 +87,12 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564219898968">
-        <mark key="'" line="88" column="17" />
-        <mark key="[" line="129" column="57" />
-        <mark key="]" line="129" column="56" />
-        <mark key="^" line="129" column="51" />
-        <mark key="." line="129" column="56" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564221595444">
+        <mark key="'" line="137" column="20" />
+        <mark key="[" line="144" column="107" />
+        <mark key="]" line="144" column="107" />
+        <mark key="." line="144" column="107" />
+        <mark key="^" line="144" column="28" />
       </file>
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561473571500">
         <mark key="[" line="218" column="79" />
@@ -274,52 +274,55 @@
       <jump line="50" column="19" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="58" column="50" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="88" column="17" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="136" column="42" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="137" column="20" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="138" column="20" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, TimeSegmentAppointItem</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>, TimeSegmentAppointItem</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRPbmVEYXlBcHBvaW50bWVudFRvVGltZVNlZ21lbnRBcHBvaW50SW5mb1w+</text>
+        <text encoding="base64">XDxvbmVTZWdtZW50QXBwb2ludHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od2Vla0ZpcnN0LnRvU3RyaW5nKCJ5eXl5LU1NLWRkIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBkYXRlPUxvY2FsRGF0ZS5mcm9tRGF0ZUZpZWxkcyhhcHBvaW50bWVudC5nZXRTdGFydFRpbWVQb2ludCgpKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lU2VnbWVudEFwcG9pbnRJdGVtIGFwcG9pbnRJdGVtID0gb25lRGF5QXBwb2ludEl0ZW1zLmdldCh0aW1lU2VnbWVudCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lU2VnbWVudEVudW0gdGltZVNlZ21lbnQgPSBvbmVXZWVrVGltZVNlZ21lbnRJbmZvcy5nZXRUaW1lU2VnbWVudCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBkYXRlPUxvY2FsRGF0ZS5mcm9tRGF0ZUZpZWxkcyhhcHBvaW50bWVudC5nZXRTdGFydFRpbWVQb2ludCgpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1lU2VnbWVudEFwcG9pbnRJdGVtIGFwcG9pbnRJdGVtID0gb25lRGF5QXBwb2ludEl0ZW1zLmdldCh0aW1lU2VnbWVudCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9uZVdlZWtBcHBvaW50SW5mbyBvbmVXZWVrQXBwb2ludEluZm89bmV3IE9uZVdlZWtBcHBvaW50SW5mbygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUaW1lU2VnbWVudEVudW0gdGltZVNlZ21lbnQgPSBvbmVXZWVrVGltZVNlZ21lbnRJbmZvcy5nZXRUaW1lU2VnbWVudCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9uZVdlZWtUaW1lU2VnbWVudEFwcG9pbnRJbmZvIG9uZVdlZWtTZWdtZW50SW5mb3MgPSBudWxsOwogICAgICAgICAgICAgICAgaWYgKHNlZ21lbnRUb09uZVdlZWtBcHBvaW50SW5mb3MuY29udGFpbnNLZXkoZW50cnkuZ2V0S2V5KCkpKSB7CiAgICAgICAgICAgICAgICAgICAgb25lV2Vla1NlZ21lbnRJbmZvcyA9IHNlZ21lbnRUb09uZVdlZWtBcHBvaW50SW5mb3MuZ2V0KGVudHJ5LmdldEtleSgpKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgb25lV2Vla1NlZ21lbnRJbmZvcyA9IG5ldyBPbmVXZWVrVGltZVNlZ21lbnRBcHBvaW50SW5mbygpOwogICAgICAgICAgICAgICAgICAgIHNlZ21lbnRUb09uZVdlZWtBcHBvaW50SW5mb3MucHV0KGVudHJ5LmdldEtleSgpLCBvbmVXZWVrU2VnbWVudEluZm9zKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRPbmVEYXlBcHBvaW50bWVudFRvVGltZVNlZ21lbnRBcHBvaW50SW5mb1w+</last-search>
+      <last-search encoding="base64">XDxvbmVTZWdtZW50QXBwb2ludHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRPbmVEYXlBcHBvaW50bWVudFRvVGltZVNlZ21lbnRBcHBvaW50SW5mb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxvbmVTZWdtZW50QXBwb2ludHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxMb2NhbERhdGVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -327,7 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcmdzXD4=</entry>
         <entry encoding="base64">XDxwcmludGxuXD4=</entry>
         <entry encoding="base64">XDxvdXRcPg==</entry>
         <entry encoding="base64">XDxyZXNvdXJjZURheXNBcHBvaW50bWVudHNcPg==</entry>
@@ -347,6 +349,7 @@
         <entry encoding="base64">XDx0aW1lU2VnbWVudHNcPg==</entry>
         <entry encoding="base64">XDxkYXRlU3RyXD4=</entry>
         <entry encoding="base64">XDxzZXRPbmVEYXlBcHBvaW50bWVudFRvVGltZVNlZ21lbnRBcHBvaW50SW5mb1w+</entry>
+        <entry encoding="base64">XDxvbmVTZWdtZW50QXBwb2ludHNcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
