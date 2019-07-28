@@ -13,11 +13,11 @@
       <file name="/a.dummy" timestamp="1564218223157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentEnum.java" timestamp="1564242176337">
-        <mark key="[" line="3" column="58" />
-        <mark key="]" line="3" column="59" />
-        <mark key="^" line="3" column="59" />
-        <mark key="." line="3" column="59" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentEnum.java" timestamp="1564308240114">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556544832427">
         <mark key="[" line="13" column="26" />
@@ -91,12 +91,13 @@
         <mark key="." line="15" column="17" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentOneWeekAppointInfo.java" timestamp="1564237508871" />
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564306965648">
-        <mark key="'" line="50" column="16" />
-        <mark key="j" line="50" column="16" />
-        <mark key="[" line="91" column="13" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564308407292">
+        <mark key="'" line="102" column="26" />
+        <mark key="j" line="52" column="16" />
+        <mark key="[" line="61" column="42" />
+        <mark key="]" line="61" column="42" />
+        <mark key="." line="61" column="42" />
+        <mark key="^" line="60" column="179" />
       </file>
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561473571500">
         <mark key="[" line="218" column="79" />
@@ -296,18 +297,18 @@
       <jump line="88" column="27" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="92" column="49" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="44" column="19" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="95" column="16" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="90" column="84" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="93" column="27" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="42" column="27" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="50" column="16" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="95" column="26" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>countCustomerTotalAppointmentStartTimeBetween</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>countCustomerTotalAppointmentStartTimeBetween</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wT25lV2Vla0FwcG9pbnRcPg==</text>
@@ -316,28 +317,28 @@
         <text encoding="base64">ICAgICAgICBpbnQgdmFsaWRBcHBvaW50ID0gYXBwb2ludFRvQ3VzdG9tZXJSZXBvLmNvdW50Q3VzdG9tZXJPbmVEYXRlVmFsaWRBcHBvaW50KGFwcG9pbnQuZ2V0QXBwb2ludERhdGUoKSwgY3VzdG9tZXIuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlLnRvRGF0ZVRpbWVBdFN0YXJ0T2ZEYXkoKQo=</text>
+        <text encoding="base64">ICAgICAgICBIYXN0PD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdmFsaWRBcHBvaW50ID0gYXBwb2ludFRvQ3VzdG9tZXJSZXBvLmNvdW50QXBwb2ludGVkU3RhcnRUaW1lQmV0d2VlbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdmFsaWRBcHBvaW50ID0gYXBwb2ludFRvQ3VzdG9tZXJSZXBvLmNvdW50Q3VzdG9tZXJPbmVEYXRlVmFsaWRBcHBvaW50KGFwcG9pbnQuZ2V0QXBwb2ludERhdGUoKSwgY3VzdG9tZXIuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRlLnRvRGF0ZVRpbWVBdFN0YXJ0T2ZEYXkoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgdmFsaWRBcHBvaW50ID0gYXBwb2ludFRvQ3VzdG9tZXJSZXBvLmNvdW50QXBwb2ludGVkU3RhcnRUaW1lQmV0d2VlbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdmFsaWRBcHBvaW50ID0gYXBwb2ludFRvQ3VzdG9tZXJSZXBvLmNvdW50Q3VzdG9tZXJPbmVEYXRlVmFsaWRBcHBvaW50KGFwcG9pbnQuZ2V0QXBwb2ludERhdGUoKSwgY3VzdG9tZXIuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdmFsaWRBcHBvaW50ID0gYXBwb2ludFRvQ3VzdG9tZXJSZXBvLmNvdW50QXBwb2ludGVkU3RhcnRUaW1lQmV0d2VlbigpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaG91ciA+PSAwICYmIGhvdXIgPCA2KSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
