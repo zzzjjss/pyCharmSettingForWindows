@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneDaySegmentAppointments.java" timestamp="1564238582079">
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneDaySegmentAppointments.java" timestamp="1564240669265">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="32" />
         <mark key="^" line="9" column="32" />
@@ -13,11 +13,11 @@
       <file name="/a.dummy" timestamp="1564218223157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentEnum.java" timestamp="1564211237243">
-        <mark key="[" line="3" column="62" />
-        <mark key="]" line="3" column="62" />
-        <mark key="^" line="3" column="62" />
-        <mark key="." line="3" column="62" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentEnum.java" timestamp="1564242176337">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="59" />
+        <mark key="^" line="3" column="59" />
+        <mark key="." line="3" column="59" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556544832427">
         <mark key="[" line="13" column="26" />
@@ -71,17 +71,18 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/AppointmentToCustomer.java" timestamp="1564223710340">
+      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/AppointmentToCustomer.java" timestamp="1564242468611">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1564210526299">
-        <mark key="[" line="20" column="75" />
-        <mark key="]" line="20" column="75" />
-        <mark key="." line="20" column="75" />
-        <mark key="^" line="21" column="78" />
+      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1564241281074">
+        <mark key="'" line="24" column="155" />
+        <mark key="[" line="24" column="160" />
+        <mark key="]" line="24" column="174" />
+        <mark key="." line="24" column="174" />
+        <mark key="^" line="24" column="174" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/WechatLoginResponse.java" timestamp="1558542207090">
         <mark key="[" line="13" column="0" />
@@ -90,12 +91,12 @@
         <mark key="." line="15" column="17" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentOneWeekAppointInfo.java" timestamp="1564237508871" />
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564238875562">
-        <mark key="'" line="29" column="33" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="35" column="32" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564243325354">
+        <mark key="'" line="88" column="49" />
+        <mark key="[" line="87" column="23" />
+        <mark key="]" line="87" column="48" />
+        <mark key="^" line="87" column="48" />
+        <mark key="." line="87" column="48" />
       </file>
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561473571500">
         <mark key="[" line="218" column="79" />
@@ -103,11 +104,12 @@
         <mark key="." line="218" column="76" />
         <mark key="^" line="218" column="76" />
       </file>
-      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" timestamp="1564223814293">
-        <mark key="[" line="23" column="67" />
-        <mark key="]" line="23" column="67" />
-        <mark key="^" line="23" column="67" />
-        <mark key="." line="23" column="67" />
+      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" timestamp="1564242706228">
+        <mark key="'" line="45" column="81" />
+        <mark key="[" line="33" column="100" />
+        <mark key="]" line="33" column="153" />
+        <mark key="^" line="33" column="153" />
+        <mark key="." line="33" column="153" />
       </file>
       <file name="E:/bitbucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1560612506262">
         <mark key="[" line="38" column="0" />
@@ -130,11 +132,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564238308015">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564240698488">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="8" column="44" />
+        <mark key="^" line="8" column="44" />
+        <mark key="." line="8" column="44" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointItem.java" timestamp="1564216142960">
         <mark key="[" line="7" column="0" />
@@ -147,7 +149,7 @@
         <mark key="." line="294" column="34" />
         <mark key="^" line="294" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563032896548">
+      <file name="/Dummy.txt" timestamp="1564243994031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/Test.java" timestamp="1560652161910">
@@ -193,12 +195,12 @@
         <mark key="." line="35" column="63" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/WeeksAppointInfoResponse.java" timestamp="1564221983627" />
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1564199169633">
-        <mark key="'" line="414" column="15" />
-        <mark key="[" line="505" column="64" />
-        <mark key="]" line="717" column="52" />
-        <mark key="^" line="717" column="52" />
-        <mark key="." line="717" column="52" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1564243973486">
+        <mark key="'" line="416" column="15" />
+        <mark key="[" line="448" column="0" />
+        <mark key="]" line="448" column="0" />
+        <mark key="^" line="448" column="127" />
+        <mark key="." line="448" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1561469850138">
         <mark key="[" line="1" column="16" />
@@ -273,7 +275,6 @@
       <jump line="45" column="36" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="50" column="19" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="58" column="50" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="88" column="17" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="136" column="42" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="137" column="20" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="138" column="20" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
@@ -286,52 +287,63 @@
       <jump line="120" column="91" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="169" column="15" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="29" column="33" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="24" column="155" filename="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" />
+      <jump line="29" column="117" filename="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" />
+      <jump line="42" column="81" filename="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" />
+      <jump line="65" column="35" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="66" column="20" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="85" column="24" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="86" column="24" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="88" column="27" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="90" column="27" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="93" column="23" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="92" column="49" filename="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>appointments == null || appointments.size() == 0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN1bHRcPg==</text>
+        <text encoding="base64">XDxnZXRTZWdtZW50c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW50IHNlZ21lbnRUb3RhbENvdWxkQWNjZXB0PTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxSZXNvdXJjZUFwcG9pbnRtZW50PiBhcHBvaW50bWVudHMgPSBhcHBvaW50bWVudFJlcG8uZmluZE9uZURhdGVPcmRlckJ5QXBwb2ludFRpbWVQb2ludEFzYyhyZXNvdXJjZS5nZXRJZCgpLCBuZXcgVGltZXN0YW1wKGJlZ2luLnRvRGF0ZSgpLmdldFRpbWUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2VBcHBvaW50bWVudCBsYXN0QXBwb2ludG1lbnQgPSBhcHBvaW50bWVudHMuZ2V0KGFwcG9pbnRtZW50cy5zaXplKCkgLSAxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxSZXNvdXJjZUFwcG9pbnRtZW50PiBhcHBvaW50bWVudHMgPSBhcHBvaW50bWVudFJlcG8uZmluZE9uZURhdGVPcmRlckJ5QXBwb2ludFRpbWVQb2ludEFzYyhyZXNvdXJjZS5nZXRJZCgpLCBuZXcgVGltZXN0YW1wKGJlZ2luLnRvRGF0ZSgpLmdldFRpbWUoKSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0TW9udGhEYXlzKCkgewogICAgICAgIHJldHVybiBtb250aERheXM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TW9udGhEYXlzKExpc3Q8U3RyaW5nPiBtb250aERheXMpIHsKICAgICAgICB0aGlzLm1vbnRoRGF5cyA9IG1vbnRoRGF5czsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgdG9kYXlBcHBvaW50ZWQgPSBhcHBvaW50bWVudFRvQ3VzdG9tZXJSZXBvLmNvdW50VG9kYXlBcHBvaW50ZWRBZnRlckN1cnJlbnRIb3VyKHIuZ2V0SWQoKSwgdG9kYXlUaW1lc3RhbXAsIGN1cnJlbnRIb3VyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vdGhlIHl5eXktTU0gb2YgbW9uZGF5IHRvIHN1bmRheQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgdG90YWxDb3VsZGVBcHBvaW50ID0gYXBwb2ludG1lbnRSZXBvLnN1bVRvdGFsQ291bGRBcHBvaW50QWZ0ZXJPbmVUaW1lUG9pbnQoci5nZXRJZCgpLHRvZGF5VGltZXN0YW1wKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IG1vbnRoRGF5cz1uZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWVzdGFtcCB0b2RheVRpbWVzdGFtcCA9IG5ldyBUaW1lc3RhbXAodG9kYXkudG9EYXRlKCkuZ2V0VGltZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8UmVzb3VyY2VBcHBvaW50bWVudD4gYXBwb2ludG1lbnRzID0gYXBwb2ludG1lbnRSZXBvLmZpbmRPbmVEYXRlT3JkZXJCeUFwcG9pbnRUaW1lUG9pbnRBc2MocmVzb3VyY2VJZCwgbmV3IFRpbWVzdGFtcChiZWdpbi50b0RhdGUoKS5nZXRUaW1lKCkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFRpbWVTZWdtZW50T25lV2Vla0FwcG9pbnRJbmZvPiBnZXRUaW1lU2VnbWVudEFwcG9pbnRJbmZvcygpIHsKICAgICAgICByZXR1cm4gdGltZVNlZ21lbnRBcHBvaW50SW5mb3M7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VGltZVNlZ21lbnRBcHBvaW50SW5mb3MoTGlzdDxUaW1lU2VnbWVudE9uZVdlZWtBcHBvaW50SW5mbz4gdGltZVNlZ21lbnRBcHBvaW50SW5mb3MpIHsKICAgICAgICB0aGlzLnRpbWVTZWdtZW50QXBwb2ludEluZm9zID0gdGltZVNlZ21lbnRBcHBvaW50SW5mb3M7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBvbmVEYXlTZWdtZW50QXBwb2ludG1lbnRzLmdldFNlZ21lbnRzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxUaW1lU2VnbWVudE9uZVdlZWtBcHBvaW50SW5mbz4gdGltZVNlZ21lbnRBcHBvaW50SW5mb3M9bmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRTZWdtZW50c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTZWdtZW50c1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxMb2NhbERhdGVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -339,10 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdXRcPg==</entry>
-        <entry encoding="base64">XDxyZXNvdXJjZURheXNBcHBvaW50bWVudHNcPg==</entry>
-        <entry encoding="base64">XDxwYWdlQXBwb2ludHNcPg==</entry>
-        <entry encoding="base64">XDxvbmVQYWdlQXBwb2ludFw+</entry>
         <entry encoding="base64">XDxtYXhUaW1lUG9pbnRcPg==</entry>
         <entry encoding="base64">XDxmb3JcPg==</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
@@ -359,6 +367,10 @@
         <entry encoding="base64">XDxvbmVTZWdtZW50QXBwb2ludHNcPg==</entry>
         <entry encoding="base64">XDxkYXRlVG9BcHBvaW50SXRlbXNcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxySWRcPg==</entry>
+        <entry encoding="base64">XDxhcHBvaW50VGltZVBvaW50XD4=</entry>
+        <entry encoding="base64">XDx0aW1lU2VnbWVudFw+</entry>
+        <entry encoding="base64">XDxnZXRTZWdtZW50c1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
