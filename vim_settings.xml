@@ -25,10 +25,11 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/TimePointUtil.java" timestamp="1564312713591">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/TimePointUtil.java" timestamp="1564323553845">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreTest.java" timestamp="1557844305316">
         <mark key="[" line="2" column="21" />
@@ -56,12 +57,12 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1564312205511">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="48" column="202" />
-        <mark key="]" line="48" column="203" />
-        <mark key="." line="48" column="203" />
-        <mark key="^" line="48" column="203" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1564323604745">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="8" />
+        <mark key="^" line="57" column="87" />
+        <mark key="." line="57" column="8" />
       </file>
       <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1561475147970">
         <mark key="[" line="1" column="16" />
@@ -95,13 +96,13 @@
         <mark key="." line="3" column="48" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentOneWeekAppointInfo.java" timestamp="1564237508871" />
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564313483702">
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564323013405">
         <mark key="'" line="28" column="7" />
-        <mark key="j" line="70" column="16" />
-        <mark key="[" line="38" column="109" />
-        <mark key="]" line="38" column="109" />
-        <mark key="." line="38" column="104" />
-        <mark key="^" line="38" column="104" />
+        <mark key="j" line="73" column="16" />
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+        <mark key="^" line="43" column="34" />
       </file>
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561473571500">
         <mark key="[" line="218" column="79" />
@@ -207,12 +208,12 @@
         <mark key="." line="35" column="63" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/WeeksAppointInfoResponse.java" timestamp="1564221983627" />
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1564308774050">
-        <mark key="'" line="419" column="15" />
-        <mark key="[" line="71" column="49" />
-        <mark key="]" line="71" column="99" />
-        <mark key="." line="71" column="99" />
-        <mark key="^" line="71" column="99" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1564323634728">
+        <mark key="'" line="420" column="15" />
+        <mark key="[" line="295" column="47" />
+        <mark key="]" line="295" column="60" />
+        <mark key="." line="295" column="60" />
+        <mark key="^" line="295" column="60" />
       </file>
       <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1561469850138">
         <mark key="[" line="1" column="16" />
@@ -317,10 +318,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICBhcHBvaW50bWVudC5zZXRTdGFydFRpbWVQb2ludChMb2NhbFRpbWUuZnJvbURhdGVGaWVsZHMoYXAuZ2V0U3RhcnRUaW1lUG9pbnQoKSkudG9TdHJpbmcoIkhIOm1tIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ResourceAppointment</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wT25lV2Vla0FwcG9pbnRcPg==</text>
@@ -329,31 +330,31 @@
         <text encoding="base64">ICAgICAgICAgICBhcHBvaW50bWVudC5zZXRTdGFydFRpbWVQb2ludChMb2NhbFRpbWUuZnJvbURhdGVGaWVsZHMoYXAuZ2V0U3RhcnRUaW1lUG9pbnQoKSkudG9TdHJpbmcoIkhIOm1tIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVGltZXN0YW1wIGdldFRpbWVzdGFtcEJ5RGF0ZVN0cihTdHJpbmcgZGF0ZVN0cixTdHJpbmcgdGltZVN0cikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0T3JkZXIoKSB7CiAgICAgICAgcmV0dXJuIG9yZGVyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaW5rZWRMaXN0PFN0cmluZz4gZ2V0VGltZVNlZ21lbnRzKCkgewogICAgICAgIHJldHVybiB0aW1lU2VnbWVudHM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VGltZVNlZ21lbnRzKExpbmtlZExpc3Q8U3RyaW5nPiB0aW1lU2VnbWVudHMpIHsKICAgICAgICB0aGlzLnRpbWVTZWdtZW50cyA9IHRpbWVTZWdtZW50czsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwb2ludG1lbnRTZXJ2aWNlLmdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVXZWVrQXBwb2ludEluZm8uZ2V0TW9uZGF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVGltZXN0YW1wIGdldFRpbWVzdGFtcEJ5RGF0ZVN0cihTdHJpbmcgZGF0ZVN0cixTdHJpbmcgdGltZVN0cikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0T3JkZXIoKSB7CiAgICAgICAgcmV0dXJuIG9yZGVyOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaW5rZWRMaXN0PFN0cmluZz4gZ2V0VGltZVNlZ21lbnRzKCkgewogICAgICAgIHJldHVybiB0aW1lU2VnbWVudHM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VGltZVNlZ21lbnRzKExpbmtlZExpc3Q8U3RyaW5nPiB0aW1lU2VnbWVudHMpIHsKICAgICAgICB0aGlzLnRpbWVTZWdtZW50cyA9IHRpbWVTZWdtZW50czsKICAgIH0K</text>
       </register>
     </registers>
     <search>
