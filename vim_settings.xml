@@ -3,14 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" timestamp="1561472825092">
+        <mark key="[" line="43" column="12" />
+      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneDaySegmentAppointments.java" timestamp="1564310780739">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="32" />
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/ListCategorysResponse.java" timestamp="1564323983566" />
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1564200285322" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564240698488">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="8" column="44" />
+        <mark key="^" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+      </file>
       <file name="/a.dummy" timestamp="1564328604359">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,6 +32,9 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
+      </file>
+      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceCategoryRepo.java" timestamp="1564324493608">
+        <mark key="[" line="4" column="92" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/ResourceDetailInfoResponse.java" timestamp="1564328662233">
         <mark key="[" line="2" column="41" />
@@ -54,13 +64,16 @@
         <mark key="." line="105" column="13" />
         <mark key="^" line="105" column="13" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ListResourcesResponse.java" timestamp="1564324410526" />
+      <file name="/Dummy.txt" timestamp="1564328731855">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/AppointmentToCustomer.java" timestamp="1564305878800">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
+      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1564576436249" />
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1564327976466">
         <mark key="'" line="34" column="105" />
         <mark key="[" line="27" column="0" />
@@ -75,7 +88,6 @@
         <mark key="." line="18" column="99" />
         <mark key="^" line="18" column="99" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentOneWeekAppointInfo.java" timestamp="1564237508871" />
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564327235787">
         <mark key="'" line="37" column="33" />
         <mark key="j" line="125" column="16" />
@@ -83,29 +95,6 @@
         <mark key="]" line="49" column="59" />
         <mark key="^" line="73" column="39" />
         <mark key="." line="49" column="59" />
-      </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointmentsInfoResponse.java" timestamp="1564312258917" />
-      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" timestamp="1564327677057">
-        <mark key="'" line="42" column="89" />
-        <mark key="[" line="46" column="110" />
-        <mark key="]" line="46" column="118" />
-        <mark key="^" line="46" column="118" />
-        <mark key="." line="46" column="118" />
-      </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" timestamp="1561472825092">
-        <mark key="[" line="43" column="12" />
-      </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564240698488">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="8" column="44" />
-        <mark key="^" line="8" column="44" />
-        <mark key="." line="8" column="44" />
-      </file>
-      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceCategoryRepo.java" timestamp="1564324493608">
-        <mark key="[" line="4" column="92" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564328731855">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentInfo.java" timestamp="1564311655596">
         <mark key="[" line="5" column="0" />
@@ -120,7 +109,6 @@
         <mark key="^" line="32" column="29" />
         <mark key="." line="32" column="29" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/WeeksAppointInfoResponse.java" timestamp="1564221983627" />
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1564328358273">
         <mark key="'" line="399" column="15" />
         <mark key="[" line="60" column="35" />
@@ -128,14 +116,21 @@
         <mark key="." line="61" column="40" />
         <mark key="^" line="61" column="40" />
       </file>
-      <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1564326601336">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="43" />
+      <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1564576447269">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1557844546217">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" timestamp="1564327677057">
+        <mark key="'" line="42" column="89" />
+        <mark key="[" line="46" column="110" />
+        <mark key="]" line="46" column="118" />
+        <mark key="^" line="46" column="118" />
+        <mark key="." line="46" column="118" />
       </file>
     </filemarks>
     <jumps>
@@ -235,11 +230,11 @@
       <jump line="42" column="89" filename="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXNvdXJjZXMoY3VzdG9tZXJBcHBvaW50bWVudFNlcnZpY2UuZ2V0QWxsUmVzb3VyY2VzSW5mbygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>localhost:8080</text>
       </register>
       <register name="-" type="4">
-        <text>ListResourcesResponse</text>
+        <text>localhost:8080</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBvaW50RGF0ZVw+</text>
