@@ -20,12 +20,6 @@
         <mark key="^" line="26" column="33" />
         <mark key="." line="26" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556544832427">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="^" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/TimePointUtil.java" timestamp="1564323553845">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="18" />
@@ -37,18 +31,6 @@
         <mark key="]" line="7" column="50" />
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
-      </file>
-      <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreTest.java" timestamp="1557844305316">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-      </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" timestamp="1558164213622">
-        <mark key="[" line="117" column="23" />
-        <mark key="]" line="118" column="56" />
-        <mark key="^" line="118" column="56" />
-        <mark key="." line="118" column="56" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneWeekAppointInfo.java" timestamp="1564311689852">
         <mark key="]" line="16" column="57" />
@@ -65,24 +47,12 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
-      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application-prod.properties" timestamp="1561475157909">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1564328726577">
         <mark key="'" line="30" column="13" />
         <mark key="[" line="104" column="71" />
         <mark key="]" line="105" column="13" />
         <mark key="." line="105" column="13" />
         <mark key="^" line="105" column="13" />
-      </file>
-      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1561475147970">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ListResourcesResponse.java" timestamp="1564324410526" />
       <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/AppointmentToCustomer.java" timestamp="1564305878800">
@@ -105,18 +75,6 @@
         <mark key="." line="18" column="99" />
         <mark key="^" line="18" column="99" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/WechatLoginResponse.java" timestamp="1558542207090">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-      </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/AppointItemStatusEnum.java" timestamp="1564311329924">
-        <mark key="[" line="3" column="42" />
-        <mark key="]" line="3" column="48" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="3" column="48" />
-      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentOneWeekAppointInfo.java" timestamp="1564237508871" />
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564327235787">
         <mark key="'" line="37" column="33" />
@@ -126,12 +84,6 @@
         <mark key="^" line="73" column="39" />
         <mark key="." line="49" column="59" />
       </file>
-      <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561473571500">
-        <mark key="[" line="218" column="79" />
-        <mark key="]" line="218" column="76" />
-        <mark key="." line="218" column="76" />
-        <mark key="^" line="218" column="76" />
-      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointmentsInfoResponse.java" timestamp="1564312258917" />
       <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" timestamp="1564327677057">
         <mark key="'" line="42" column="89" />
@@ -140,26 +92,8 @@
         <mark key="^" line="46" column="118" />
         <mark key="." line="46" column="118" />
       </file>
-      <file name="E:/bitbucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1560612506262">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="63" />
-        <mark key="^" line="38" column="63" />
-        <mark key="." line="38" column="63" />
-      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" timestamp="1561472825092">
         <mark key="[" line="43" column="12" />
-      </file>
-      <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreSimulation.java" timestamp="1557845199654">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-      </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/AppointmentService.java" timestamp="1564200297624">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564240698488">
         <mark key="[" line="6" column="30" />
@@ -170,62 +104,14 @@
       <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceCategoryRepo.java" timestamp="1564324493608">
         <mark key="[" line="4" column="92" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1564199865704">
-        <mark key="[" line="294" column="33" />
-        <mark key="]" line="294" column="34" />
-        <mark key="." line="294" column="34" />
-        <mark key="^" line="294" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564243994031">
+      <file name="/Dummy.txt" timestamp="1564328731855">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/java/com/uf/member/Test.java" timestamp="1560652161910">
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="5" column="65" />
-        <mark key="^" line="5" column="65" />
-        <mark key="." line="5" column="65" />
-      </file>
-      <file name="E:/bitbucket/membersystem/SpringBootDeploy/src/main/resources/application-prod.properties" timestamp="1561475177423">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-      </file>
-      <file name="E:/bitbucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/CommonController.java" timestamp="1561168973083">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
-        <mark key="^" line="14" column="1" />
-      </file>
-      <file name="E:/bitbucket/membersystem/WarDeploy/target/classes/com/uf/member/filter/AuthenFilter.class" timestamp="1560652151352">
-        <mark key="[" line="62" column="33" />
-        <mark key="]" line="62" column="32" />
-        <mark key="^" line="62" column="32" />
-        <mark key="." line="62" column="32" />
-      </file>
-      <file name="E:/bitbucket/membersystem/Test/pom.xml" timestamp="1557843770085">
-        <mark key="[" line="32" column="41" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="25" />
-      </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1558855501988">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="61" />
-        <mark key="." line="80" column="61" />
-        <mark key="^" line="80" column="61" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentInfo.java" timestamp="1564311655596">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="34" />
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
-      </file>
-      <file name="E:/bitbucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557551256169">
-        <mark key="[" line="35" column="61" />
-        <mark key="]" line="35" column="63" />
-        <mark key="^" line="35" column="63" />
-        <mark key="." line="35" column="63" />
       </file>
       <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" timestamp="1564326439425">
         <mark key="'" line="26" column="20" />
