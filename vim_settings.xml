@@ -76,6 +76,11 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
+      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1564812419956">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1564327976466">
         <mark key="'" line="34" column="105" />
         <mark key="[" line="27" column="0" />
@@ -233,10 +238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost:8080</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>localhost:8080</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBvaW50RGF0ZVw+</text>
