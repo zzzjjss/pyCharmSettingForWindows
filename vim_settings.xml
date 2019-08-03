@@ -6,6 +6,7 @@
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" timestamp="1561472825092">
         <mark key="[" line="43" column="12" />
       </file>
+      <file name="D:/Java/jdk1.8.0_25/src.zip!/java/util/Arrays.java" timestamp="1564823275537" />
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneDaySegmentAppointments.java" timestamp="1564310780739">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="32" />
@@ -52,11 +53,6 @@
         <mark key="^" line="235" column="30" />
         <mark key="." line="235" column="30" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneWeekAppointInfo.java" timestamp="1564311689852">
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="57" />
-      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem_WechatApp/pages/storeManager/index.js" timestamp="1560655161160">
         <mark key="[" line="251" column="0" />
       </file>
@@ -67,7 +63,7 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1564328726577">
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1564826586331">
         <mark key="'" line="30" column="13" />
         <mark key="[" line="104" column="71" />
         <mark key="]" line="105" column="13" />
@@ -102,19 +98,19 @@
         <mark key="." line="18" column="99" />
         <mark key="^" line="18" column="99" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564820465205">
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564826745699">
         <mark key="'" line="219" column="13" />
         <mark key="j" line="125" column="16" />
-        <mark key="[" line="220" column="12" />
-        <mark key="]" line="221" column="32" />
-        <mark key="^" line="221" column="32" />
-        <mark key="." line="221" column="32" />
+        <mark key="[" line="108" column="12" />
+        <mark key="]" line="103" column="58" />
+        <mark key="^" line="103" column="58" />
+        <mark key="." line="103" column="58" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentInfo.java" timestamp="1564311655596">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="34" />
-        <mark key="^" line="6" column="34" />
-        <mark key="." line="6" column="34" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentInfo.java" timestamp="1564825945060">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="30" column="7" />
+        <mark key="^" line="30" column="7" />
+        <mark key="." line="30" column="7" />
       </file>
       <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" timestamp="1564326439425">
         <mark key="'" line="26" column="20" />
@@ -251,10 +247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>moring</text>
+        <text>appointment</text>
       </register>
       <register name="-" type="4">
-        <text>moring</text>
+        <text>appointment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wXD4=</text>
@@ -263,31 +259,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5hZGQodGVtcE9uZVdlZWtBcHBvaW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5hZGQodGVtcE9uZVdlZWtBcHBvaW50KTsK</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXNvdXJjZXMoY3VzdG9tZXJBcHBvaW50bWVudFNlcnZpY2UuZ2V0QWxsUmVzb3VyY2VzSW5mbygpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCJhcGkvY3VzdG9tZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZm9zLmFkZChpbmZvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vbWFrZSBzdXJlIHRoZSB3ZWVrVGltZVNlZ21lbnRzIHdhcyBvcmRlcmVkLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2hlZHVsZVJlc291cmNlSW5mbyBpbmZvID0gbmV3IFNjaGVkdWxlUmVzb3VyY2VJbmZvKCk7CiAgICAgICAgICAgICAgICAgICAgaW5mby5zZXRJZChyLmdldElkKCkpOwogICAgICAgICAgICAgICAgICAgIGluZm8uc2V0TmFtZShyLmdldE5hbWUoKSA9PSBudWxsID8gIiIgOiByLmdldE5hbWUoKSk7CiAgICAgICAgICAgICAgICAgICAgaW5mby5zZXREZXNjcmliZShyLmdldERlc2NyaXB0KCkgPT0gbnVsbCA/ICIiIDogci5nZXREZXNjcmlwdCgpKTsKICAgICAgICAgICAgICAgICAgICBpbmZvLnNldEhlYWRJbWdVcmwoaW1nU2VydmVyUm9vdCArIHIuZ2V0SGVhZEltZ1VybCgpKTsKICAgICAgICAgICAgICAgICAgICBpbmZvLnNldFRhZ3Moci5nZXRUYWdzKCkpOwogICAgICAgICAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUgbm93ID0gTG9jYWxEYXRlVGltZS5ub3coKTsKICAgICAgICAgICAgICAgICAgICBUaW1lc3RhbXAgbm93VGltZSA9IG5ldyBUaW1lc3RhbXAobm93LnRvRGF0ZSgpLmdldFRpbWUoKSk7CiAgICAgICAgICAgICAgICAgICAgSW50ZWdlciB0b3RhbENvdWxkZUFwcG9pbnQgPSByZXNvdXJjZUFwcG9pbnRtZW50UmVwby5zdW1Ub3RhbENvdWxkQXBwb2ludEFmdGVyT25lVGltZShyLmdldElkKCksIG5vd1RpbWUpOwogICAgICAgICAgICAgICAgICAgIHRvdGFsQ291bGRlQXBwb2ludCA9IHRvdGFsQ291bGRlQXBwb2ludCA9PSBudWxsID8gMCA6IHRvdGFsQ291bGRlQXBwb2ludDsKICAgICAgICAgICAgICAgICAgICBJbnRlZ2VyIGFwcG9pbnRlZCA9IGFwcG9pbnRtZW50VG9DdXN0b21lclJlcG8uY291bnRBcHBvaW50ZWRBZnRlck9uZVRpbWVwb2ludChyLmdldElkKCksIG5vd1RpbWUpOwogICAgICAgICAgICAgICAgICAgIGFwcG9pbnRlZCA9IGFwcG9pbnRlZCA9PSBudWxsID8gMCA6IGFwcG9pbnRlZDsKICAgICAgICAgICAgICAgICAgICBpbmZvLnNldFJlbWFpbkFwcG9pbnRtZW50KHRvdGFsQ291bGRlQXBwb2ludCAtIGFwcG9pbnRlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBpZihpbmZvcy5zaXplKCk+MCl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yKGludCBpPTA7aTxpbmZvcy5zaXplKCk7aSsrKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltZVNlZ21lbnRJbmZvIGV4aXN0PWluZm9zLmdldChpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGV4aXN0LmdldFRpbWVTZWdtZW50SWQoKT5zZy5nZXRJZCgpKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZm9zLmFkZExhc3QoaW5mbyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihpPT0oaW5mb3Muc2l6ZSgpLTEpKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZm9zLmFkZEZpcnN0KGluZm8pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5mb3MuYWRkRmlyc3QoaW5mbyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIgPSBzY2hlZHVsZVJlc291cmNlUmVwby5maW5kT25lKHIuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
     </registers>
     <search>
