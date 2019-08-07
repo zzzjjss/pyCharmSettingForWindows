@@ -3,7 +3,6 @@
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
-  <action id="$SelectAll" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -12,6 +11,8 @@
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
@@ -19,6 +20,9 @@
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.Refresh">
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -35,6 +39,8 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditCustomField" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="Editor Copy">
@@ -45,6 +51,9 @@
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCodeBlockEnd" />
@@ -88,6 +97,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="Github.PullRequest.List.Refresh">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -123,6 +135,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="Groovy.Shell.Execute" />
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
   <action id="HippieCompletion" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="ImplementMethods" />
@@ -177,6 +191,9 @@
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ReplaceInPath" />
   <action id="ResizeToolWindowDown" />
   <action id="RevealIn">
@@ -191,6 +208,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="SendEOF" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="ShowContent">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -218,6 +238,8 @@
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
   <action id="openAssertEqualsDiff" />
   <action id="tasks.close" />
 </keymap>
