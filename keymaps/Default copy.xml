@@ -1,15 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="ctrl insert" />
-    <keyboard-shortcut first-keystroke="alt c" />
-  </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="alt x" />
-  </action>
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="shift insert" />
-    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="$SelectAll" />
   <action id="ActivateFavoritesToolWindow" />
@@ -60,15 +52,7 @@
   <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorDeleteLine" />
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
   <action id="EditorDuplicate" />
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="ctrl b" />
-  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -77,10 +61,6 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
-  <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="ctrl f" />
-  </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -88,10 +68,6 @@
   <action id="EditorSplitLine" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
-  </action>
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
@@ -175,7 +151,7 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NewElementSamePlace" />
   <action id="NextTab">
@@ -188,9 +164,6 @@
   <action id="ParameterInfo" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
-  </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -213,9 +186,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
   <action id="ScrollTreeToCenter" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
