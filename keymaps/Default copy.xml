@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -49,6 +53,9 @@
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
@@ -61,10 +68,26 @@
   <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorDeleteLine" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="EditorDuplicate" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
@@ -73,6 +96,10 @@
   <action id="EditorSplitLine" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
@@ -84,9 +111,6 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt o" />
-  </action>
-  <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
