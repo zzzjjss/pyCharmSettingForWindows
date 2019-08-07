@@ -1,8 +1,4 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="shift delete" />
-    <keyboard-shortcut first-keystroke="alt x" />
-  </action>
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="alt d" />
@@ -51,7 +47,7 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="Editor Cut">
-    <keyboard-shortcut first-keystroke="alt x" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="Editor Delete">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -84,6 +80,14 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift alt b" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -266,4 +270,5 @@
   <action id="XDebugger.SetValue" />
   <action id="openAssertEqualsDiff" />
   <action id="tasks.close" />
+  <action id="tasks.open.in.browser" />
 </keymap>
