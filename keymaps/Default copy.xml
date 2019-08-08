@@ -18,9 +18,6 @@
   </action>
   <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
-  <action id="ChangesView.Refresh">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -34,15 +31,15 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="CollapseSelection" />
-  <action id="CommittedChanges.Refresh">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -128,9 +125,6 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
-  <action id="Github.PullRequest.List.Refresh">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
@@ -168,21 +162,12 @@
   <action id="HippieCompletion" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="ImplementMethods" />
-  <action id="IncomingChanges.Refresh">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="KotlinShellExecute" />
-  <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="ctrl period" />
-  </action>
   <action id="MethodHierarchy.OverrideMethodAction" />
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
@@ -197,6 +182,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift alt close_bracket" />
   </action>
+  <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -211,14 +197,12 @@
   </action>
   <action id="RecentFiles" />
   <action id="RefactoringMenu">
-    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="Refresh">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
+  <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -262,12 +246,14 @@
   <action id="TodoViewGroupByShowModules" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
   <action id="tasks.close" />
   <action id="tasks.open.in.browser" />
