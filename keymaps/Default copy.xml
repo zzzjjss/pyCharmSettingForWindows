@@ -31,8 +31,12 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="CollapseSelection" />
+  <action id="CommittedChanges.Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
+  <action id="CopyElement" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="Diff.ShowDiff" />
@@ -116,6 +120,10 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="ForceRefresh">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
@@ -162,6 +170,9 @@
   <action id="HippieCompletion" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="ImplementMethods" />
+  <action id="IncomingChanges.Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -202,7 +213,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="Refresh" />
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
