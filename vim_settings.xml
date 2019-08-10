@@ -30,11 +30,11 @@
       <file name="E:/bitbucket/membersystem/WarDeploy/pom.xml" timestamp="1564811550440">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ImageController.java" timestamp="1565427584045">
-        <mark key="[" line="91" column="31" />
-        <mark key="]" line="91" column="48" />
-        <mark key="." line="91" column="48" />
-        <mark key="^" line="91" column="48" />
+      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ImageController.java" timestamp="1565428307085">
+        <mark key="[" line="91" column="28" />
+        <mark key="]" line="91" column="32" />
+        <mark key="." line="91" column="32" />
+        <mark key="^" line="91" column="32" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/TimePointUtil.java" timestamp="1564323553845">
         <mark key="[" line="9" column="11" />
@@ -182,10 +182,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>= new File(&quot;e:/temp/&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>= new File(&quot;e:/temp/&quot;);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wXD4=</text>
