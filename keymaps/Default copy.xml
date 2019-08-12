@@ -206,7 +206,6 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="RecentFiles" />
   <action id="RefactoringMenu">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -252,6 +251,7 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
