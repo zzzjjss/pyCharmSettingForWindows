@@ -217,9 +217,6 @@
   <action id="RefactoringMenu">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
