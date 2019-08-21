@@ -102,11 +102,11 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1565275435738">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="8" column="34" />
+      <file name="E:/bitbucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1566398119505">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1566115653950">
         <mark key="[" line="44" column="27" />
@@ -114,7 +114,6 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="44" column="37" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CardsInfo.java" timestamp="1566115616841" />
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1564327976466">
         <mark key="'" line="34" column="105" />
         <mark key="[" line="27" column="0" />
@@ -201,10 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA9IG5ldyBDb3VudENhcmRJbmZvKCk7Cg==</text>
+        <text encoding="base64">c3ByaW5nLmh0dHAubXVsdGlwYXJ0Lm1heC1maWxlLXNpemU9MTAwMDAwMDAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>www</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wXD4=</text>
@@ -213,31 +212,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA9IG5ldyBDb3VudENhcmRJbmZvKCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJPGdyb3VwSWQ+Y29tbW9ucy1uZXQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmNvbW1vbnMtbmV0PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4zLjY8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwVXRpbC5odHRwUG9zdEZvcm1VcmxFbmNvZGVkRGF0YV9SZXNwb25zZUpzb24oKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">c3ByaW5nLmh0dHAubXVsdGlwYXJ0Lm1heC1maWxlLXNpemU9MTAwMDAwMDAwCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA9IG5ldyBDb3VudENhcmRJbmZvKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJPGdyb3VwSWQ+Y29tbW9ucy1uZXQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmNvbW1vbnMtbmV0PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4zLjY8L3ZlcnNpb24+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBIdHRwVXRpbC5odHRwUG9zdEZvcm1VcmxFbmNvZGVkRGF0YV9SZXNwb25zZUpzb24oKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">c3ByaW5nLmh0dHAubXVsdGlwYXJ0Lm1heC1maWxlLXNpemU9MTAwMDAwMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
       </register>
     </registers>
     <search>
