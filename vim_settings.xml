@@ -12,11 +12,11 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/BaiduMapRobot.java" timestamp="1568346118785">
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="25" />
+      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/BaiduMapRobot.java" timestamp="1568353098687">
+        <mark key="[" line="10" column="179" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564240698488">
         <mark key="[" line="6" column="30" />
@@ -99,7 +99,7 @@
         <mark key="." line="105" column="13" />
         <mark key="^" line="105" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568293967927">
+      <file name="/Dummy.txt" timestamp="1568352723304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/pom.xml" timestamp="1565421403720">
@@ -148,11 +148,11 @@
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/UploadBase64ImagesRequest.java" timestamp="1565425471981">
         <mark key="[" line="2" column="40" />
       </file>
-      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/HttpUtil.java" timestamp="1568345563088">
+      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/HttpUtil.java" timestamp="1568352748809">
         <mark key="[" line="106" column="51" />
-        <mark key="]" line="106" column="64" />
-        <mark key="." line="106" column="118" />
-        <mark key="^" line="106" column="64" />
+        <mark key="]" line="106" column="61" />
+        <mark key="." line="106" column="61" />
+        <mark key="^" line="106" column="61" />
       </file>
       <file name="E:/bitbucket/membersystem/Test/src/main/java/com/uf/member/stress/Application.java" timestamp="1565277754432">
         <mark key="[" line="14" column="8" />
@@ -179,14 +179,6 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564826745699">
-        <mark key="'" line="219" column="13" />
-        <mark key="j" line="125" column="16" />
-        <mark key="[" line="108" column="12" />
-        <mark key="]" line="103" column="58" />
-        <mark key="^" line="103" column="58" />
-        <mark key="." line="103" column="58" />
-      </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentInfo.java" timestamp="1564825945060">
         <mark key="[" line="23" column="45" />
         <mark key="]" line="30" column="7" />
@@ -199,6 +191,9 @@
         <mark key="]" line="32" column="29" />
         <mark key="^" line="32" column="29" />
         <mark key="." line="32" column="29" />
+      </file>
+      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CustomerInfo.java" timestamp="1568353036124">
+        <mark key="[" line="2" column="27" />
       </file>
       <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/RectangleMapUtils.java" timestamp="1568346173544">
         <mark key="'" line="11" column="25" />
@@ -223,11 +218,10 @@
       <file name="/fragment.java" timestamp="1557844546217">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1568346203838">
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="46" />
+      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1568352843240">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="E:/bitbucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" timestamp="1564327677057">
         <mark key="'" line="42" column="89" />
@@ -253,11 +247,11 @@
       <jump line="11" column="25" filename="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/RectangleMapUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>JsonObject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb2ludFlcPg==</text>
@@ -266,31 +260,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbkNvbnRlbnQuZ2V0QXNTdHJpbmcoKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRCdWlsZGVyLnNldFNTTENvbnRleHQoc3NsQ29udGV4dCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAganNvbkNvbnRlbnQuZ2V0QXNTdHJpbmcoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTU0xDb250ZXh0IHNzbENvbnRleHQ9bnVsbDsKICAgICAgICB0cnkgewogICAgICAgICAgICBzc2xDb250ZXh0ID0gU1NMQ29udGV4dHMuY3VzdG9tKCkubG9hZFRydXN0TWF0ZXJpYWwobmV3IFRydXN0U3RyYXRlZ3koKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGlzVHJ1c3RlZChYNTA5Q2VydGlmaWNhdGVbXSBjaGFpbiwgU3RyaW5nIGF1dGhUeXBlKSB0aHJvd3MgQ2VydGlmaWNhdGVFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgfX0pLmJ1aWxkKCk7CiAgICAgICAgfSBjYXRjaCAoS2V5TWFuYWdlbWVudEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgLy8gVE9ETyBBdXRvLSBjYXRjaCBibG9jawogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKEtleVN0b3JlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBjYXRjaCBibG9jawogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRCdWlsZGVyLnNldFNTTENvbnRleHQoc3NsQ29udGV4dCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCWNsaWVudEJ1aWxkZXIuc2V0RGVmYXVsdENyZWRlbnRpYWxzUHJvdmlkZXIoY3JlZGVudGlhbHNQcm92aWRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCUh0dHBIb3N0IHByb3h5SG9zdD1uZXcgSHR0cEhvc3QoInByb3h5LXNmbyIsIDgwKTsKLy8JCUNyZWRlbnRpYWxzUHJvdmlkZXIgY3JlZGVudGlhbHNQcm92aWRlcj1uZXcgQmFzaWNDcmVkZW50aWFsc1Byb3ZpZGVyKCk7Ci8vCQljcmVkZW50aWFsc1Byb3ZpZGVyLnNldENyZWRlbnRpYWxzKG5ldyBBdXRoU2NvcGUocHJveHlIb3N0KSwgbmV3IE5UQ3JlZGVudGlhbHMoInpoYW5namEiLCAiYiIsInpoYW5namEtN3ciLCJhbmFseXRpY3MiKSk7Ci8vCQljbGllbnRCdWlsZGVyLnNldFByb3h5KHByb3h5SG9zdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTU0xDb250ZXh0IHNzbENvbnRleHQ9bnVsbDsKICAgICAgICB0cnkgewogICAgICAgICAgICBzc2xDb250ZXh0ID0gU1NMQ29udGV4dHMuY3VzdG9tKCkubG9hZFRydXN0TWF0ZXJpYWwobmV3IFRydXN0U3RyYXRlZ3koKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGlzVHJ1c3RlZChYNTA5Q2VydGlmaWNhdGVbXSBjaGFpbiwgU3RyaW5nIGF1dGhUeXBlKSB0aHJvd3MgQ2VydGlmaWNhdGVFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgfX0pLmJ1aWxkKCk7CiAgICAgICAgfSBjYXRjaCAoS2V5TWFuYWdlbWVudEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgLy8gVE9ETyBBdXRvLSBjYXRjaCBibG9jawogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKEtleVN0b3JlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBjYXRjaCBibG9jawogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8JCWNsaWVudEJ1aWxkZXIuc2V0RGVmYXVsdENyZWRlbnRpYWxzUHJvdmlkZXIoY3JlZGVudGlhbHNQcm92aWRlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVRpbWVGb3JtYXR0ZXIgID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIik7Cg==</text>
+        <text encoding="base64">Ly8JCUh0dHBIb3N0IHByb3h5SG9zdD1uZXcgSHR0cEhvc3QoInByb3h5LXNmbyIsIDgwKTsKLy8JCUNyZWRlbnRpYWxzUHJvdmlkZXIgY3JlZGVudGlhbHNQcm92aWRlcj1uZXcgQmFzaWNDcmVkZW50aWFsc1Byb3ZpZGVyKCk7Ci8vCQljcmVkZW50aWFsc1Byb3ZpZGVyLnNldENyZWRlbnRpYWxzKG5ldyBBdXRoU2NvcGUocHJveHlIb3N0KSwgbmV3IE5UQ3JlZGVudGlhbHMoInpoYW5namEiLCAiYiIsInpoYW5namEtN3ciLCJhbmFseXRpY3MiKSk7Ci8vCQljbGllbnRCdWlsZGVyLnNldFByb3h5KHByb3h5SG9zdCk7Cg==</text>
       </register>
     </registers>
     <search>
