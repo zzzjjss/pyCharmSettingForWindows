@@ -12,12 +12,12 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/BaiduMapRobot.java" timestamp="1568362786979">
+      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/BaiduMapRobot.java" timestamp="1568512275637">
         <mark key="'" line="23" column="16" />
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="26" column="19" />
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="34" />
         <mark key="^" line="26" column="19" />
-        <mark key="." line="26" column="19" />
+        <mark key="." line="24" column="34" />
       </file>
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564240698488">
         <mark key="[" line="6" column="30" />
@@ -79,7 +79,6 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="E:/bitbucket/membersystem/member/pom.xml" timestamp="1568359703829" />
       <file name="E:/bitbucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/PayService.java" timestamp="1566638762970">
         <mark key="'" line="104" column="114" />
       </file>
@@ -173,7 +172,7 @@
       <file name="/fragment.java" timestamp="1557844546217">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1568361963312">
+      <file name="E:/bitbucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1568512424935">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="53" column="11" />
