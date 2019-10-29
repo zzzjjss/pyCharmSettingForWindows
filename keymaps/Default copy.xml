@@ -193,7 +193,13 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
-  <action id="MoveStatementDown" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -256,6 +262,7 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift alt o" />
