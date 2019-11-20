@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+</keymap>
