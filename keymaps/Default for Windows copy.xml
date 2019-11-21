@@ -2,6 +2,11 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
@@ -13,20 +18,34 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="alt end" />
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="EditorSelectWord" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="ExportToTextFile" />
   <action id="FileChooser.NewFolder">
@@ -36,11 +55,21 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="GotoLine" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="MethodDown" />
   <action id="MethodUp" />
