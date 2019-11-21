@@ -8,6 +8,11 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ExportToTextFile" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
