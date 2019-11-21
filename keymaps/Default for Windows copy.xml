@@ -1,6 +1,10 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="CloseContent">
@@ -9,6 +13,9 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="ExportToTextFile" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt o" />
@@ -16,7 +23,14 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt comma" />
