@@ -1,8 +1,8 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
-  <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="shift ctrl r" />
@@ -11,7 +11,23 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
   <action id="EditorSelectWord" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="ExportToTextFile" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -26,13 +42,24 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
+  <action id="RunMenu">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ServiceView.JumpToServices" />
+  <action id="ShowContent" />
+  <action id="ShowNavBar" />
+  <action id="ShowSearchHistory" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
 </keymap>
