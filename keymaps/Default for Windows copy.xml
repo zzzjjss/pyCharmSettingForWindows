@@ -81,6 +81,14 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+  </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="RunClass">
@@ -96,12 +104,6 @@
   <action id="ShowSearchHistory" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt comma" />
-  </action>
-  <action id="VimMotionNextTab">
-    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
-  </action>
-  <action id="VimMotionPreviousTab">
-    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
   </action>
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
