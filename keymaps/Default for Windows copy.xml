@@ -28,10 +28,6 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
@@ -82,7 +78,6 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="shift alt close_bracket" />
   </action>
   <action id="PreviousTab">
