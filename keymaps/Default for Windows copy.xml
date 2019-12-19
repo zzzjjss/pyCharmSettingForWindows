@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
